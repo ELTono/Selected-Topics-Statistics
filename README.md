@@ -19,7 +19,7 @@ and additionally, a median sensory preference from up to three sensory assessors
 (\sommeliers" in the scenario) following blind sensory assessment on a subjective
 scale of 0 (disgusting) to 10 (excellent).
 
-The main task was to complete a report for a fictional fodd AI-Start up, which want us to answer the following questions:
+The main task was to complete a report for a fictional fodd AI-Start up (the final report correspond to the "Wine dataset report" pdf), which want us to answer the following questions:
 
 1. Can we use the sommelier/wine data to create an AI with super-human per-
 formance in wine tasting?
